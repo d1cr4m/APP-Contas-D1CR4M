@@ -46,6 +46,13 @@ Funciona 100% offline, sem anúncios e sem necessidade de conta. Seus dados fica
 
 > 📌 Em celulares Xiaomi, ative o início automático do app e desative a economia de bateria para os lembretes funcionarem.
 
+## 🔒 Segurança
+
+- **Código aberto:** todo o código está neste repositório e pode ser conferido.
+- **Sem internet:** o app não pede permissão de internet. Seus dados nunca saem do aparelho.
+- **Permissões:** só notificações (lembretes) e reagendar o alarme ao reiniciar o celular.
+- **Aviso do Play Protect:** ele aparece porque o app é distribuído fora da Play Store por um desenvolvedor independente. Toque em **Mais detalhes → Instalar mesmo assim**.
+- **Conferir o arquivo:** o SHA-256 do `contas.apk` está na descrição da release.
 ------
 
 ## ☕ Apoie o projeto
