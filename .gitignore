@@ -1,0 +1,6 @@
+contas.jks
+android.jar
+build/
+obj/
+*.apk
+*.idsig
