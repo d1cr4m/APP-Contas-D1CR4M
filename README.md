@@ -46,7 +46,22 @@ Funciona 100% offline, sem anúncios e sem necessidade de conta. Seus dados fica
 
 > 📌 Em celulares Xiaomi, ative o início automático do app e desative a economia de bateria para os lembretes funcionarem.
 
----
+------
+
+## ☕ Apoie o projeto
+
+O App Contas é gratuito, sem anúncios e feito com carinho no meu tempo livre, direto do celular. Ele vai continuar assim, e ninguém precisa pagar nada para usar.
+
+Se o app te ajudou e você quiser contribuir com qualquer valor, ajuda a manter o projeto vivo e a trazer novas melhorias. Se não puder, tudo bem: usar, compartilhar e dar uma ⭐ já me ajuda muito. Obrigado de coração! 💚
+
+**Pix (chave aleatória):**
+```
+2f56566e-1db5-43b6-af63-4c59eff5ec77
+```
+
+**Ou pelo link do Nubank:** [Contribuir via Nubank](https://nubank.com.br/cobrar/2nrkg/6ae1f784-78f5-438a-a734-9202485913be)
+
+<img src="pix-qrcode.png" alt="QR Code Pix" width="220">
 
 
 Desenvolvido por **D1CR4M**.
